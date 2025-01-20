@@ -3,7 +3,6 @@
 🌱 Atualmente, estou aprendendo mais sobre desenvolvimento frontend e metodologias ágeis.
 💞️ Estou buscando colaborar em projetos que envolvam desenvolvimento frontend e backend.
 📫 Como me encontrar: enzovieira.trabalho@outlook.com
-😄 Pronomes: ele/dele
 ⚡ Fato curioso: Adoro aprender novas linguagens de programação e explorar novas tecnologias.
 
 <!---
